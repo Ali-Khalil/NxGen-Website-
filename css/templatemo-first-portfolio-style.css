@@ -207,7 +207,7 @@ strong {
 }
 
 
-@keyframes spinner {
+@-webkit-@keyframes spinner {
   to {transform: rotate(360deg);
   }
 }
@@ -215,6 +215,7 @@ strong {
 @keyframes spinner {
   to {transform: rotate(360deg);}
 }
+
 
 
 /*---------------------------------------
