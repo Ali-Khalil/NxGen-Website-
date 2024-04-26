@@ -646,7 +646,7 @@ strong {
 
 .services-thumb-up {
   position: relative;
-  bottom: 50px;
+  bottom: 0px;
   margin-bottom: -50px;
 }
 
