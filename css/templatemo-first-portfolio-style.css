@@ -232,7 +232,7 @@ strong {
 }
 
 .is-sticky .navbar-icon {
-  background: #11275E;
+  background: #26F398;
   color: var(--white-color);
 }
 
@@ -321,7 +321,7 @@ strong {
 }
 
 .is-sticky .navbar-nav .nav-link {
-  color: var(--p-color);
+  color: var(--primary-color);
 }
 
 .is-sticky .navbar .custom-btn {
@@ -370,8 +370,8 @@ strong {
 .navbar-nav .nav-link {
   display: inline-block;
   color: var(--section-bg-color);
-  font-size: var(--menu-font-size);
-  font-weight: var(--font-weight-medium);
+  font-size: 14px;
+  font-weight: 600;
   text-transform: uppercase;
   position: relative;
   padding-top: 15px;
